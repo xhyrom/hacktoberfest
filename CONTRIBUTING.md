@@ -12,7 +12,7 @@ This is a beginner friendly repository made specifically for Hacktoberfest that 
 5. Add your work into `code` or `non-code` folder
    - You can add your work in any language you want
    - Designers can add their work in `non-code` folder
-6. Use `git add` to add your changes into git
+6. Use `git add .` and `git commit -m "message"` to add your changes into git
 7. Push your changes - `git push origin your-branch-name`
 8. [Submit a pull request](https://github.com/xHyroM/hacktoberfest/compare)
 
