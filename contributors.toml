@@ -4,5 +4,6 @@ contributors = [
     { name = "Mukund32", bio = "developer - software", location = "India" },
     { name = "Shivaminc", bio = "Cybersecurity", location = "India" },
     { name = "NikoDyring", bio = "Fullstack Developer", location = "Denmark" },
-    { name = "Garvit-001", bio = "Software developer", location = "India" }
+    { name = "Garvit-001", bio = "Software developer", location = "India" },
+    { name = "elmkar", bio = "Software Engineer", location = "Italy"}
 ]
