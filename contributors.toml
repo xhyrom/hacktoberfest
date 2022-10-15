@@ -3,5 +3,6 @@ contributors = [
     { name = "Devanshu2310", bio = "Software developer", location = "India" },
     { name = "Mukund32", bio = "developer - software", location = "India" },
     { name = "Shivaminc", bio = "Cybersecurity", location = "India" },
-    { name = "NikoDyring", bio = "Fullstack Developer", location = "Denmark" }
+    { name = "NikoDyring", bio = "Fullstack Developer", location = "Denmark" },
+    { name = "Garvit-001", bio = "Software developer", location = "India" }
 ]
