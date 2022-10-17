@@ -5,5 +5,11 @@ contributors = [
     { name = "Shivaminc", bio = "Cybersecurity", location = "India" },
     { name = "NikoDyring", bio = "Fullstack Developer", location = "Denmark" },
     { name = "Garvit-001", bio = "Software developer", location = "India" },
-    { name = "elmkar", bio = "Software Engineer", location = "Italy"}
+    { name = "xdpooja", bio = "Beginner", location = "India" },
+    { name = "elmkar", bio = "Software Engineer", location = "Italy"},
+    { name = "Marcelo", bio = "Developer Intern", location = "Brasil"},
+    { name = "Saahil", bio = "Developer", location = "India"},
+    { name = "Nitish Pal", bio = "Developer, Mathematician", location = "India" },
+    { name = "YorLecaros", bio = "Backend Developer", location = "Peru" },
+    { name = "Meghwant", bio = "Web Developer", location = "India" },
 ]
