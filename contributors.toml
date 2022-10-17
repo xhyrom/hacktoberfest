@@ -10,5 +10,6 @@ contributors = [
     { name = "Marcelo", bio = "Developer Intern", location = "Brasil"},
     { name = "Saahil", bio = "Developer", location = "India"},
     { name = "Nitish Pal", bio = "Developer, Mathematician", location = "India" },
-    { name = "YorLecaros", bio = "Backend Developer", location = "Peru" }
+    { name = "YorLecaros", bio = "Backend Developer", location = "Peru" },
+    { name = "Meghwant", bio = "Web Developer", location = "India" },
 ]
