@@ -18,4 +18,5 @@ contributors = [
     { name = "gobar07", bio= "Cybersecurity", location = "India" },
     { name = "Anushka-Singh1", bio= "Beginner", location = "India" },
     { name = "DaneeSkripter", bio="JS Developer", location = "Czechia"},
+    { name = "Spydermanno" ,bio="Software Engineer" ,location="India"}
 ]
